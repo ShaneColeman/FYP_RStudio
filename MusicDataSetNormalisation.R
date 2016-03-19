@@ -14,6 +14,7 @@ head(musicData)
 write.csv(musicData, file = "MusicData.csv")
 
 musicDataNorm <- mmnorm(musicData[1:9], minval = 0, maxval = 1)
+names(musicDataNorm) <- NULL
 head(musicDataNorm)
 
 write.csv(musicDataNorm, file = "MusicDataNorm.csv",row.names = FALSE)
