@@ -1,0 +1,101 @@
+author and song duration, tempo(bpm), rms(dB), sampling frequency(kHz), sampling rate(b), dynamic range(dB), tonality, number of digital errors,genre
+"Axel Rudi Pell-""Magic"" 09:25",110,-6,44.1,16,32,9,7,Rock
+"Edwin Dare-""And of the story"" 04:16",130,-7,44.1,16,35,11,6,Rock
+"Jim Gillette-""Proud to be loud"" 04:41",95,-6,44.1,24,33,9,6,Rock
+"Nickelback-""Bottoms up"" 03:37",110,-5,44.1,24,30,8,7,Rock
+"Nickelback-""When we stand together"" 03:11",115,-5,44.1,24,31,7,7,Rock
+"Nitro-""Freight train"" 03:55",130,-6,44.1,16,32,9,6,Rock
+"Rain Delay-""Shiseido"" 02:38",150,-5,44.1,16,31,9,7,Rock
+"Van Halen-""I'm the one"" 03:47",140,-6,44.1,16,33,7,6,Rock
+"Van Halen-""Ain't talkin' 'bout love"" 03:49",140,-6,44.1,16,33,8,5,Rock
+"Guns'n'Roses-""Welcome to the jungle"" 04:34",125,-6,44.1,24,34,9,6,Rock
+"Iron Maiden-""Run to the hills"" 03:54",135,-7,44.1,16,35,7,5,Rock
+"Cansas-""Carry on my wayward son"" 05:21",120,-8,44.1,16,37,5,4,Rock
+"Led Zeppelin-""Whole lotta love"" 05:34",105,-7,44.1,24,36,2,5,Rock
+"Lita Ford-""Kiss me deathly"" 04:01",130,-8,44.1,24,38,4,4,Rock
+"Megadeth-""Peace cells"" 04:02",120,-6,44.1,24,35,6,5,Rock
+"Metallica-""Enter sandman"" 05:32",110,-7,44.1,24,34,6,6,Rock
+"Motley Crue-""Dr. Feelgood"" 04:50",135,-6,44.1,16,36,3,3,Rock
+"Motorhead-""Ace of spades"" 02:49",150,-7,44.1,16,37,4,2,Rock
+"Ozzy Ozbourne-""Crazy train"" 04:58",130,-7,44.1,16,38,9,3,Rock
+"Qiet Riot-""Come on feel the noise"" 04:49",115,-7,44.1,24,37,5,4,Rock
+"Rainbow-""Since you've been gone"" 03:19",115,-8,44.1,16,38,7,5,Rock
+"Ratt-""Round&Round"" 04:26",110,-8,44.1,24,38,0,2,Rock
+"Skid Row-""18 and life"" 03:52",95,-7,44.1,24,37,3,3,Rock
+"Steppenwolf-""Born to be wild"" 03:30",100,-9,44.1,16,36,4,4,Rock
+"Survivor-""Eye of the tiger"" 04:04",105,-8,44.1,16,38,9,4,Rock
+"W.A.Mozart-""Requiem-Lacrimosa"" 03:09",0,-14,48,24,65,4,0,Classical
+"Antonio Vivaldi-""Le quattro stagioni"" 10:50",95,-15,48,24,67,0,0,Classical
+"Johann Pachelbel-""Kanon in D"" 04:25",70,-14,48,16,63,2,0,Classical
+"Antonin Dvorak-""New World Symphony-Largo"" 04:38",0,-12,48,24,60,4,0,Classical
+"Tomaso Albinoni-""Adagio"" 09:52",50,-13,48,24,62,7,0,Classical
+"Georg Friderich Handel-""Massiah hallelujah"" 04:21",80,-11,48,16,67,2,0,Classical
+"L.V.Beethoven-""Symphony no.7(Op.92)"" 14:17",75,-13,48,16,62,9,0,Classical
+"Edvard Hangerup Greig-""Morgensteming"" 04:01",73,-14,48,24,68,4,0,Classical
+"L.V.Beethoven-""Symphony no.9(Op.125)"" 12:57",77,-14,48,16,64,2,0,Classical
+"J.S.Bach-""Air"" 05:04",64,-14,48,24,67,2,0,Classical
+"Carl Orff-""Carmiba Burana-O fortuna"" 05:19",80,-13,48,24,65,2,0,Classical
+"Guillio Caccini-""Ave Maria"" 06:00",0,-12,48,24,67,10,0,Classical
+"P.I.Tchaikovsky-""Swan lake"" 03:14",0,-13,48,16,68,11,0,Classical
+"G.F.F.Verdi-""Nabucco-Pensiero"" 05:29",0,-12,48,24,67,0,0,Classical
+"J.S.Bach-""Toccata E Fuga"" 09:23",0,-12,48,24,65,2,0,Classical
+"Maurice Ravel-""Bolero"" 14:51",80,-11,48,16,70,0,0,Classical
+"L.V.Beethoven-""Fur Elise"" 02:53",0,-14,48,16,64,9,0,Classical
+"J.S.Bach-""Badinerie"" 01:26",100,-13,48,16,62,11,0,Classical
+"G.Gershwin-""Rhapsody in blue"" 16:28",0,-14,48,24,68,5,0,Classical
+"Georges Bizet-""Carmen-Habanera"" 04:36",70,-14,48,16,64,2,0,Classical
+"G.F.F.Verdi-""Rigoletto-La donna a mobile"" 02:23",80,-14,48,24,63,11,0,Classical
+"P.I.Tchaikovsky-""Nutcracker"" 02:12",85,-13,48,24,61,7,0,Classical
+"P.I.Tchaikovsky-""Piano concerto no.1"" 09:00",77,-13,48,16,68,10,0,Classical
+"Nicolo Paganini-""Concerto pour violin no.1(Op.6)"" 04:58",80,-14,48,16,63,3,0,Classical
+"G.F.F.Verdi-""La Traviata"" 03:14",85,-13,48,24,62,5,0,Classical
+"Louis Armstrong-""La vie en rose"" 03:26",70,-12,44.1,24,42,11,0,Jazz
+"Sarah Vaughan-""They cant take that away"" 02:42",43,-14,44.1,16,43,3,0,Jazz
+"Ella Fitzgerald-""Aint nobodys business but my own"" 03:15",90,-13,44.1,24,44,0,0,Jazz
+Sarah Vaughan-Round Midnight 03:35,55,-13,44.1,24,42,4,0,Jazz
+nina simone-i loves you porgy 04:05,50,-11,44.1,16,44,5,0,Jazz
+lou rawls and dianne reeves-at last 03:40,57,-10,44.1,16,44,2,0,Jazz
+ella fitzgerald-nice work if you can get it 02:38,60,-11,44.1,24,46,0,0,Jazz
+sammy davis jr-please dont talk about me when im gone 02:42,70,-11,44.1,16,41,7,0,Jazz
+dean martin-bye bye blackbird 03:05,73,-13,44.1,24,43,5,0,Jazz
+billie holiday-what a little moonlight can do 03:13,90,-12,44.1,24,42,8,0,Jazz
+chet baker-lets get lost 03:45,83,-13,44.1,24,42,3,0,Jazz
+bobby troup-route 66 02:40,74,-13,44.1,16,43,5,0,Jazz
+dinah washington-is you is or is you aint my baby 03:25,80,-14,44.1,24,47,10,0,Jazz
+fats domino-blue monday 02:20,78,-12,44.1,16,45,4,0,Jazz
+ray charles-honey honey 02:43,60,-12,44.1,16,41,7,0,Jazz
+eartha kitt-love for sale 03:07,0,-11,44.1,24,48,3,0,Jazz
+dodo greene-you dont know me 02:47,75,-13,44.1,24,42,1,0,Jazz
+frank sinatra-i get a kick out of you 02:55,0,-14,44.1,24,46,6,0,Jazz
+holly cole-blame it on my youth 03:01,0,-13,44.1,24,44,4,0,Jazz
+irma thomas-ruler of my heart 02:39,73,-13,44.1,16,44,4,0,Jazz
+cassandra wilson-you dont know what love is 06:07,0,-12,44.1,16,43,3,0,Jazz
+louis armstrong-a kiss to build a dream on 03:03,70,-13,44.1,16,41,6,0,Jazz
+chet baker-my funny valentine 02:20,0,-10,44.1,24,40,9,0,Jazz
+dianne reeves-nearness of you misty 03:17,74,-11,44.1,16,46,0,0,Jazz
+sarah vaughan-what a difference a day made 02:50,85,-12,44.1,24,42,3,0,Jazz
+Aco Pejovic-Litar Krvi 03:25,100,-7,44.1,24,37,5,3,Folk
+Alegro Band-Kao da nema me 03:32,120,-8,44.1,16,35,8,4,Folk
+Lepa brena-Udji slobodno 04:00,110,-6,44.1,24,38,6,4,Folk
+Sandra-Afrika 03:22,125,-9,44.1,16,38,2,6,Folk
+Sasa Matic-Poklonite mi nju za rodjendan 05:51,110,-10,44.1,16,39,2,3,Folk
+Sladjana Delibasic-Sedmi sprat 05:00,105,-11,44.1,16,35,2,5,Folk
+Zeljko Sasic-Crna zeno 02:55,115,-7,44.1,24,37,4,4,Folk
+Jovan Perisic-Moje najmilije 03:36,120,-8,44.1,24,32,7,5,Folk
+Dzej-Radjaj sinove 03:27,116,-8,44.1,16,33,3,3,Folk
+Tina Ivanovic-Bambus 04:03,125,-7,44.1,16,34,7,5,Folk
+Djani-Balkanac 03:29,125,-8,44.1,24,34,5,5,Folk
+Ana Nikolic-Devojka od cokolade 03:49,127,-8,44.1,16,36,3,6,Folk
+kaya-nemoj da me zoves ljubavi 03:58,120,-7,44.1,24,38,8,5,Folk
+Ena Popov-uci sam da zaspis 03:17,110,-9,44.1,24,36,10,3,Folk
+Seka Aleksic-Kraljica 03:53,125,-10,44.1,24,34,0,4,Folk
+Dara-Zidovi 03:22,110,-7,44.1,16,33,0,5,Folk
+Aca Lukas-Zapisite mi broj 03:10,115,-8,44.1,24,32,2,4,Folk
+Ana Nikolic-Miso moj 03:24,118,-7,44.1,16,37,6,5,Folk
+Severina-Gas gas 03:34,130,-7,44.1,16,35,5,6,Folk
+Slavica Cukteras-Eskluziva 03:33,120,-10,44.1,24,35,5,5,Folk
+Aca Lukas-Zapisite mi broj 03:10,123,-8,44.1,24,36,7,4,Folk
+Louis-Obrisi suze mala moja 03:55,110,-9,44.1,24,31,9,3,Folk
+Mira Skoric-Ne daj me majko 02:55,115,-8,44.1,24,39,4,4,Folk
+Milena Ceranic-Dvadesete Gazim 03:38,127,-8,44.1,16,35,9,3,Folk
+Jasar Ahmedovski-Vencajte me sa njenom lepotom 04:20,125,-7,44.1,16,35,3,3,Folk
