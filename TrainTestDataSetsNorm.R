@@ -12,3 +12,6 @@ rowsLengthSize <- sample(seq_len(nrow(testDataSetNorm)),size = sizeDataSet)
 
 train <- testDataSetNorm[rowsLengthSize,]
 test <- testDataSetNorm[-rowsLengthSize,]
+
+write.csv(train, file = "TrainNorm.csv",row.names = FALSE)
+write.csv(test, file = "TestNorm.csv",row.names = FALSE)
