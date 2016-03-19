@@ -1,8 +1,8 @@
 #http://stackoverflow.com/questions/17200114/
 #how-to-split-data-into-training-testing-sets-using-sample-function-in-r-program
 
-testDataSetNorm <- read.csv("MusicDataNorm.csv")
-
+testDataSetNorm <- read.csv("MusicDataNorm.csv",header = FALSE)
+names(testDataSetNorm) <- NULL
 #50% of whole data set
 sizeDataSet <- floor(0.50 * nrow(testDataSetNorm))
 
