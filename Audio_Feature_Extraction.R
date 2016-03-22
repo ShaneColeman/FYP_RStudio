@@ -1,7 +1,14 @@
 install.packages("tuneR")
 library(tuneR)
 
-audio <- file.path("metal.00005.au")
-info <- file.info(audio)
+audio <- readWave("Resurrection_Clip.wav")
 
-show(audio)
+a <- mono(audio)
+summary(a)
+
+p <- periodogram(a)
+
+summary(p)
+
+norm <- normalize(audio)
+summary(norm)
