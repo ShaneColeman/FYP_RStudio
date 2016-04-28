@@ -8,15 +8,13 @@ library(seewave)
 library(tuneR)
 #library(audio)
 
-#Sampling Frequency: 44100 Hertz or 44.1kHz
-
 ironMaiden <- readWave(filename = "Iron Maiden - Run To The Hills - 5.wav")
-str(ironMaiden)
 summary(ironMaiden)
+str(ironMaiden)
 
 ironMaidenMono <- mono(ironMaiden, which = c("both"))
-str(ironMaidenMono)
 summary(ironMaidenMono)
+str(ironMaidenMono)
 
 #Time length of clipped mono track
 numOfSamplesIronMaiden <- 230731
@@ -37,14 +35,16 @@ ironMaidenMonoLeft <- ironMaidenMonoLeft / 2 ^ (ironMaidenMono@bit -1)
 summary(ironMaidenMonoLeft)
 
 ironMaidenMonoLength <- length(ironMaidenMonoLeft)
+ironMaidenMonoLength
 ironMaidenMonoFFT <- fft(ironMaidenMonoLeft)
+ironMaidenMonoFFT
 
 ironMaidenRMS <- rms(ironMaidenMonoLeft)
 ironMaidenRMS #0.2597691
 
 #http://uk.mathworks.com/matlabcentral/newsreader/view_thread/164978
 rmsTodBIronMaiden <- 10 * log10(0.2597691)
-rmsTodBIronMaiden #-5.854125
+rmsTodBIronMaiden 
 
 ################
 
