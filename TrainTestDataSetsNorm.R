@@ -1,5 +1,4 @@
-#http://stackoverflow.com/questions/17200114/
-#how-to-split-data-into-training-testing-sets-using-sample-function-in-r-program
+#http://stackoverflow.com/questions/17200114/how-to-split-data-into-training-testing-sets-using-sample-function-in-r-program
 
 set.seed(11)
 

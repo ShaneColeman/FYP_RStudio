@@ -1,4 +1,6 @@
 #Decision Tree
+#http://trevorstephens.com/post/72923766261/titanic-getting-started-with-r-part-3-decision
+
 library(rpart)
 library(rattle)
 library(rpart.plot)

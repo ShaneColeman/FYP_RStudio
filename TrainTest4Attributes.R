@@ -8,6 +8,7 @@ sapply(musicDataSetTrain, class)
 train4Attributes <- musicDataSetTrain[c(2,3,4,6,9:12)]
 sapply(train4Attributes, class)
 
+#http://stackoverflow.com/questions/18175602/how-do-you-delete-the-header-in-a-dataframe
 names(train4Attributes) <- NULL
 head(train4Attributes)
 
@@ -23,6 +24,7 @@ sapply(musicDataSetTest, class)
 test4Attributes <- musicDataSetTest[c(2,3,4,6,9:12)]
 sapply(test4Attributes, class)
 
+#http://stackoverflow.com/questions/18175602/how-do-you-delete-the-header-in-a-dataframe
 names(test4Attributes) <- NULL
 head(test4Attributes)
 
