@@ -41,9 +41,18 @@ tonality <- musicData$tonality
 digitalErrors <- musicData$num.dig.errors
 genre <- musicData$genre
 
+#******************************************************************
+#Title: Titanic: Getting Started With R - Part 3: Decision Trees
+#Site Owner / Sponsor: trevorstephens.com
+#Date: 2014
+#Author: Trevor Stephens
+#Availability: http://trevorstephens.com/post/72923766261/titanic-getting-started-with-r-part-3-decision
+#Date Accessed: March 2016
+#Modified: Code refactord to the relevant data frame
+
 genrePrediction <- rpart(genre ~ tempo + rootMeanSquare + 
 												 	samplingFrequency + dynamicRange + tonality + digitalErrors, 
-						 								data = musicData, method = "class")
+												 data = musicData, method = "class")
 
 plot(genrePrediction, main = "Music Genre Classification")
 text(genrePrediction, cex = 0.9)
@@ -53,4 +62,6 @@ prp(genrePrediction, main = "Music Genre Classification")
 
 fancyRpartPlot(genrePrediction, cex = 0.55, 
 							 main = "Music Genre Classification - Decision Tree\n\n\n")
+#******************************************************************
+
 
