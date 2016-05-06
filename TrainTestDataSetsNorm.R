@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: TrainTestDataSetsNorm.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: March 2016
+#Modified: User Created R Script (TrainTestDataSetsNorm.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 set.seed(11)
 
 testDataSetNorm <- read.csv("MusicDataNorm.csv",header = FALSE)

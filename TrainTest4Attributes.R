@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: TrainTest4Attributes.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: March 2016
+#Modified: User Created R Script (TrainTest4Attributes.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 #Attributes: Sampling Frequency, Tempo, Root Mean Square, Dynamic Range
 #TrainNorm.csv
 musicDataSetTrain <- read.csv("TrainNorm.csv", sep = ",", 

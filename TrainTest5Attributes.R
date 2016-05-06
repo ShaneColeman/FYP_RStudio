@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: TrainTest5Attributes.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: March 2016
+#Modified: User Created R Script (TrainTest5Attributes.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 #Attributes: Sampling Frequency, Tempo, Root Mean Square, Dynamic Range
 
 #TrainNorm.csv

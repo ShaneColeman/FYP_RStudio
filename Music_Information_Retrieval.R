@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: Music_Information_Retrieval.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: April 2016
+#Modified: User Created R Script (Music_Information_Retrieval.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 #install.packages("seewave")
 #install.packages("tuneR")
 #install.packages("audio")

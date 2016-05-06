@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: MusicDataSetNormalisation.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: March 2016
+#Modified: User Created R Script (MusicDataSetNormalisation.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 #Full List of Attributes
 
 #http://www.inside-r.org/packages/cran/dprep/docs/mmnorm

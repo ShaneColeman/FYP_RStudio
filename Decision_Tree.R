@@ -1,3 +1,12 @@
+#******************************************************************
+#Title: Decision_Tree.R Script
+#Date: 2016
+#Author: Shane Coleman
+#Date Created: March - April 2016
+#Modified: User Created R Script (TrainTestDataSetsNorm.R)
+#Modified / Refactored Code Referenced Below
+#******************************************************************
+
 #Decision Tree
 #http://trevorstephens.com/post/72923766261/titanic-getting-started-with-r-part-3-decision
 
